@@ -1,6 +1,6 @@
 ### ¿Quién soy?
 
-Me llamo Marcos Arjona, nací en Lucena un pueblo al sur de Córdoba. Llegué a Jaén en busca de oportunidades y para enseñar y descubrir de lo que soy capaz.
+Me llamo Marcos Arjona, nací en Lucena, un pueblo al sur de Córdoba. Llegué a Jaén en busca de oportunidades y para enseñar y descubrir de lo que soy capaz.
 ---
 ### Mis estudios
 Actualmente estoy estudiando ***Desarrollo de aplicaciones multiplataforma (DAM)*** en la ciudad de Jaén, aunque nací y me crié en Lucena, Córdoba. 
