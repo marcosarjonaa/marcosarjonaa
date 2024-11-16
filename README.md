@@ -26,7 +26,9 @@ Actualmente, que estoy más adentrado en este mundo, puedo decir que soy un entu
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
 </span>
+
 ---
+
 ### Mis hobbies
 En cuanto a mis hobbies y vida más personal, me han gustado los deportes desde pequeño, he practido taekwondo, fútbol, bádminton y voleibol. Estos deportes me han enseñado mucho, desde mejorar 
 el **trabajo en equipo** y obtener **liderazgo** hasta desarrollar una gran **capacidad de mejora** constante, así como las **ganas de aprender** cosas nuevas.
