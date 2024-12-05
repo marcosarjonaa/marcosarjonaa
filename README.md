@@ -36,3 +36,7 @@ el **trabajo en equipo** y obtener **liderazgo** hasta desarrollar una gran **ca
 Por otro lado, el haberme tenido que mudar a un lugar totalmente nuevo y no tener a nadie conocido cerca, me ha ayudado a **madurar** y a ser más **independiente**, entre otras cosas.
 
 --- 
+
+
+![Visitas](https://komarev.com/ghpvc/?username=alexcl885&color=blue&style=flat)
+
