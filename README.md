@@ -9,7 +9,7 @@ Actualmente estoy estudiando ***Desarrollo de Aplicaciones Multiplataforma (DAM)
 Allí empezaron mis primeros pasos en la programación, donde por mi cuenta aprendí **Raptor**, lenguaje que no tardé en aprender. Posteriormente empecé una andadura más avanzada 
 donde aprendí las claves principales, siendo este el origen de mi pasión por programar.
 
-Actualmente, que estoy más adentrado en este mundo, puedo decir que soy un entusiasmado del **Big Data**, así como del **Back-End**, en el cual me estoy formando gracias al ciclo de DAM.
+Actualmente, que estoy más adentrado en este mundo, puedo decir que soy un entusiasmado de todas los ámbitos ya sea **Big Data**, **Back-End** o **Frontend**. En estos me estoy formando gracias al ciclo de DAM.
 
 ---
 ### Lenguajes conocidos
