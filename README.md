@@ -4,12 +4,16 @@ Me llamo Marcos Arjona, nací en Lucena, un pueblo al sur de Córdoba. Llegué a
 
 ---
 ### Mis estudios
-Actualmente estoy estudiando ***Desarrollo de Aplicaciones Multiplataforma (DAM)*** en la ciudad de Jaén, aunque nací y me crié en Lucena, Córdoba. 
+He estudiado ***Desarrollo de Aplicaciones Multiplataforma (DAM)*** en la ciudad de Jaén, aunque nací y me crié en Lucena, Córdoba. 
 
 Allí empezaron mis primeros pasos en la programación, donde por mi cuenta aprendí **Raptor**, lenguaje similar a pseudocódigo, que no tardé en aprender. Posteriormente empecé una andadura más avanzada 
 donde aprendí lo basico en python y logrando entender las claves más sencillas de este mundillo, siendo este el origen de mi pasión por programar.
 
 Actualmente, que estoy más adentrado en este mundo, puedo decir que soy un entusiasmado de todas los ámbitos ya sea **Big Data**, **Backend** o **Frontend**. En estos me estoy formando gracias al ciclo de DAM.
+
+---
+### Experiencia Laboral
+Actualmente soy un prorgramador junior con cerca de un año de experiencia en el mundo del Big Data, destacanado proyectos con aseguradoras en las que he tenido la oportunidad de mejorar mi trabajo en equipo y aprender mucho sobre tecnologías como **Databricks, Apache Spark, Scala, PySpark, Azure DevOps**
 
 ---
 ### Lenguajes conocidos
